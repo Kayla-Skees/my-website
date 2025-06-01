@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Charity Water Landing Page</title>
+  <link rel="stylesheet" href="styles.css"/>
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap" rel="stylesheet">
+</head>
+<body>
+  <header>
+    <img src="logo-placeholder.png" alt="Charity Water Logo" class="logo"/>
+    <h1>charity: water</h1>
+  </header>
+
+  <main class="hero">
+    <div class="text-box">
+      <h2>Clean water is a human right that we can make a reality.</h2>
+      <p>100% of your donation brings clean water one step closer to 100% of people.</p>
+    </div>
+    <div class="image-box">
+      <img src="donation-photo.jpg" alt="Happy community" />
+    </div>
+    <div class="donate-badge">Donate here to make a difference</div>
+  </main>
+</body>
+</html>
